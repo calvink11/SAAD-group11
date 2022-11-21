@@ -77,6 +77,7 @@ gantt
 ![](DFD0.jpeg "DFD 圖0")
 
 # UML類別圖
+![](UML.jpg "UML圖")
 # 循序圖
 # 活動圖
 # 分鏡板
