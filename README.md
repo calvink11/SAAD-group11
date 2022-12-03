@@ -79,6 +79,12 @@ gantt
 # UML類別圖
 ![](UML.jpg "UML圖")
 # 循序圖
+### 使用案例一
+![](Sequencediagram_Login.png "")
+### 使用案例二
+![](Sequencediagram_Swap.png "")
+### 使用案例三
+![](Sequencediagram_Obtain.png "")
 # 活動圖
 # 分鏡板
 # 實體關係圖
