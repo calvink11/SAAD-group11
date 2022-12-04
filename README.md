@@ -87,4 +87,6 @@ gantt
 ![](Sequencediagram_Obtain.png "")
 # 活動圖
 # 分鏡板
+### storyboard
+![](/storyboard/storyboard.png "storyboard")
 # 實體關係圖
