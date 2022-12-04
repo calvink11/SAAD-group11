@@ -89,4 +89,26 @@ gantt
 # 分鏡板
 ### storyboard
 ![](/storyboard/storyboard.png "storyboard")
+
+### storyboard1
+![](/storyboard/storyboard1.png "storyboard1")
+
+### storyboard2
+![](/storyboard/storyboard2.png "storyboard2")
+
+### storyboard3
+![](/storyboard/storyboard3.png "storyboard3")
+
+### storyboard4
+![](/storyboard/storyboard4.png "storyboard4")
+
+### storyboard5
+![](/storyboard/storyboard5.png "storyboard5")
+
+### storyboard6
+![](/storyboard/storyboard6.png "storyboard6")
+
+### storyboard7
+![](/storyboard/storyboard7.png "storyboard7")
+
 # 實體關係圖
