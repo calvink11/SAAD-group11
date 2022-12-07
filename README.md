@@ -86,6 +86,12 @@ gantt
 ### 使用案例三
 ![](Sequencediagram_Obtain.png "")
 # 活動圖
+#### 使用案例一
+![](使用案例一.jpg "")
+#### 使用案例二
+![](使用案例二.jpg "")
+#### 使用案例三
+![](使用案例三.jpg "")
 # 分鏡板
 ### storyboard
 ![](/storyboard/storyboard.png "storyboard")
@@ -112,3 +118,4 @@ gantt
 ![](/storyboard/storyboard7.png "storyboard7")
 
 # 實體關係圖
+![](實體關係圖.jpg "")
